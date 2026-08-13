@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/yash110905/yash110905/main/dark (1).svg">
+          srcset="https://raw.githubusercontent.com/yash110905/yash110905/main/dark.svg">
   <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/yash110905/yash110905/main/light (1).svg">
+          srcset="https://raw.githubusercontent.com/yash110905/yash110905/main/light.svg">
   <img alt="Yashkumar Patel"
-       src="https://raw.githubusercontent.com/yash110905/yash110905/main/light (1).svg">
+       src="https://raw.githubusercontent.com/yash110905/yash110905/main/light.svg">
 </picture>
 ## Hi there 👋
 

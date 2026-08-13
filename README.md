@@ -1,4 +1,4 @@
-```html
+
 <p align="center">
   <strong>Hi there 👋 I'm Yashkumar Patel</strong>
 </p>
@@ -98,4 +98,3 @@
 </a>
 
 </div>
-```

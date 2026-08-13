@@ -54,7 +54,33 @@
 </div>
 
 <br/>
+<br/>
 
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yash110905/yash110905/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yash110905/yash110905/output/github-snake.svg"
+  />
+  <img
+    alt="Snake eating Yashkumar Patel's GitHub contributions"
+    src="https://raw.githubusercontent.com/yash110905/yash110905/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
+
+<br/>
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me

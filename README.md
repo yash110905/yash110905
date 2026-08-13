@@ -1,4 +1,9 @@
 
+<!-- ========================================================= -->
+<!--                    YASHKUMAR PATEL                         -->
+<!--                     GITHUB PROFILE                         -->
+<!-- ========================================================= -->
+
 <p align="center">
   <strong>Hi there 👋 I'm Yashkumar Patel</strong>
 </p>
@@ -6,6 +11,7 @@
 <p align="center">
   Computer Programming & Analysis Student • Barrie, Ontario, Canada
 </p>
+
 
 <!-- ===================== ANIMATED BANNER ===================== -->
 
@@ -26,6 +32,7 @@
 </picture>
 
 <br/>
+
 
 <!-- ===================== GITHUB STATS ===================== -->
 
@@ -54,7 +61,7 @@
 </div>
 
 <br/>
-<br/>
+
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
 
@@ -82,6 +89,7 @@
 
 <br/>
 
+
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
@@ -89,12 +97,14 @@
 - 🎓 Advanced Diploma in **Computer Programming and Analysis**
 - 📍 Based in **Barrie, Ontario, Canada**
 - 💻 Interested in **Software Development & Programming**
-- 🌱 Currently building, learning, and improving
-- 🚀 Always interested in learning new technologies and building practical projects
+- 🌱 Currently building, learning, and improving my programming skills
+- 🚀 Enjoy building practical applications and exploring new technologies
+- 🤝 Open to collaborating on software development projects
 
 <br/>
 
-<!-- ===================== TECH STACK ===================== -->
+
+<!-- ===================== LANGUAGES & TOOLS ===================== -->
 
 ## 🛠️ Languages & Tools
 
@@ -109,7 +119,25 @@
 
 <br/>
 
-<!-- ===================== CONTACT ===================== -->
+
+<!-- ===================== TECH STACK ===================== -->
+
+### 💻 Programming
+
+`Python` • `Java` • `C++` • `JavaScript` • `HTML`
+
+### 🗄️ Database
+
+`MongoDB`
+
+### 🔧 Development Tools
+
+`VS Code` • `Eclipse` • `Git` • `GitHub`
+
+<br/>
+
+
+<!-- ===================== CONNECT WITH ME ===================== -->
 
 ## 🌐 Connect With Me
 
@@ -139,6 +167,14 @@
     alt="Portfolio"
   />
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💻 Building • 📚 Learning • 🚀 Improving
 
 </div>
 

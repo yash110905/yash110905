@@ -81,6 +81,7 @@
 </div>
 
 <br/>
+
 <!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
@@ -99,7 +100,10 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,git,github,mongodb,vscode,eclipse&perline=10" alt="Languages and Tools" />
+<img
+  src="https://skillicons.dev/icons?i=python,java,cpp,js,html,git,github,mongodb,vscode,eclipse&perline=10"
+  alt="Python, Java, C++, JavaScript, HTML, Git, GitHub, MongoDB, VS Code and Eclipse"
+/>
 
 </div>
 
@@ -112,15 +116,29 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/yash-patel-098ba8342/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
+
 &nbsp;&nbsp;
+
 <a href="mailto:pyash4521@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email"/>
+  <img
+    src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F"
+    alt="Email"
+  />
 </a>
+
 &nbsp;&nbsp;
+
 <a href="https://yash1109.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio"/>
+  <img
+    src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=netlify&logoColor=22D3EE&labelColor=0A101F"
+    alt="Portfolio"
+  />
 </a>
 
 </div>
+

@@ -4,7 +4,7 @@
   <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/yash110905/yash110905/main/light (1).svg">
   <img alt="Yashkumar Patel"
-       src="https://raw.githubusercontent.com/yash110905/yash110905/main/light.svg">
+       src="https://raw.githubusercontent.com/yash110905/yash110905/main/light (1).svg">
 </picture>
 ## Hi there 👋
 

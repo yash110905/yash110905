@@ -1,13 +1,20 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/yash110905/yash110905/main/dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/yash110905/yash110905/main/light.svg">
-  <img alt="Yashkumar Patel"
-       src="https://raw.githubusercontent.com/yash110905/yash110905/main/light.svg">
-</picture>
-## Hi there 👋
 
+## Hi there 👋
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yash110905/yash110905/main/dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yash110905/yash110905/main/light.svg"
+  />
+  <img
+    alt="Yashkumar Patel — Computer Programming and Analysis"
+    src="https://raw.githubusercontent.com/yash110905/yash110905/main/light.svg"
+    width="100%"
+  />
+</picture>
 <!--
 **yash110905/yash110905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
